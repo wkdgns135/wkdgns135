@@ -1,2 +1,2 @@
-more information of me!
+Here is more information of me!
 --->>>> https://wkdgns135.github.io/Portfolio/
