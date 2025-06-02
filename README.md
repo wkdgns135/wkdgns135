@@ -30,15 +30,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=wkdgns135&theme=radical&show_icons=true" width="400" height="200"/>
       </td>
       <td style="padding: 10px; vertical-align: middle;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdgns135&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000&hide=html,css" width="400" height="200"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; vertical-align: middle;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdgns135" width="400" height="200"/>
-      </td>
-      <td style="padding: 10px; vertical-align: middle;">
-        <img src="http://mazandi.herokuapp.com/api?handle=wkdgns135&theme=warm" width="400" height="200"/>
       </td>
     </tr>
   </table>
