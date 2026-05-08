@@ -3,16 +3,12 @@
 </div>
 
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">재미있는 게임을 만드는 개발자 안장훈 입니다.</h2>  
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">상상을 동작하는 시스템으로 구현하는 개발자 안장훈입니다.</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-  안녕하세요, 게임 프로그래머 안장훈입니다.
-  어려서부터 상상을 현실로 만드는 것에 매료되어 게임 개발의 길을 걷게 되었습니다.
-  대학교에서는 컴퓨터 그래픽스와 물리 시뮬레이션을 전공하며,
-  C++을 활용한 물리 시뮬레이터를 직접 제작하는 등 기술적 기반을 다졌습니다.
-  인턴직을 수행할 때는 Unity를 사용한 라이브 게임 콘텐츠 업데이트와
-  TypeScript 기반 Playable Ads 기획 및 제작 업무를 담당하며
-  게임 개발의 전 과정을 경험했습니다.
-  현재는 언리얼 엔진 5를 학습하며 언리얼 개발자로서의 역량을 확장해 나가고 있습니다.
+   컴퓨터 그래픽스와 물리 시뮬레이션에 관심을 가지고 C++/CUDA 기반 헤어 시뮬레이터, PBD/XPBD 기반 Cloth Simulator를 개발했습니다.  
+  Unity 라이브 콘텐츠 업데이트와 TypeScript 기반 Playable Ads 제작을 통해 실제 서비스 환경에서의 개발 경험을 쌓았고, UE5 C++ 기반 플러그인 개발을 통해 실시간 비전 처리와 외부 AI 연동 시스템을 구현했습니다.
+  
+  현재는 C++을 중심으로 시스템 설계, 성능 최적화, 병렬 처리, 실시간 인터랙션 구현 역량을 넓혀가고 있습니다.
   </div> 
 </div>
 
