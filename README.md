@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">상상을 동작하는 시스템으로 구현하는 개발자 안장훈입니다.</h2>  
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">상상을 현실로 구현하는 개발자 안장훈입니다.</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
    컴퓨터 그래픽스와 물리 시뮬레이션에 관심을 가지고 C++/CUDA 기반 헤어 시뮬레이터, PBD/XPBD 기반 Cloth Simulator를 개발했습니다.  
   Unity 라이브 콘텐츠 업데이트와 TypeScript 기반 Playable Ads 제작을 통해 실제 서비스 환경에서의 개발 경험을 쌓았고, UE5 C++ 기반 플러그인 개발을 통해 실시간 비전 처리와 외부 AI 연동 시스템을 구현했습니다.
