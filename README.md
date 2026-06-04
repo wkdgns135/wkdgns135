@@ -5,20 +5,47 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">상상을 현실로 구현하는 개발자 안장훈입니다.</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-   컴퓨터 그래픽스와 물리 시뮬레이션에 관심을 가지고 C++/CUDA 기반 헤어 시뮬레이터, PBD/XPBD 기반 Cloth Simulator를 개발했습니다.  
-  Unity 라이브 콘텐츠 업데이트와 TypeScript 기반 Playable Ads 제작을 통해 실제 서비스 환경에서의 개발 경험을 쌓았고, UE5 C++ 기반 플러그인 개발을 통해 실시간 비전 처리와 외부 AI 연동 시스템을 구현했습니다.
-  
-  현재는 C++을 중심으로 시스템 설계, 성능 최적화, 병렬 처리, 실시간 인터랙션 구현 역량을 넓혀가고 있습니다.
+    컴퓨터 그래픽스와 물리 시뮬레이션에 관심을 가지고 C++/CUDA 기반 헤어 시뮬레이터와 PBD/XPBD 기반 Cloth Simulator를 개발했습니다.<br/>
+    Unity 라이브 콘텐츠 업데이트와 Playable Ads 개발 경험을 바탕으로 실무 환경을 경험했으며, 현재는 CAE 및 시뮬레이션 분야에서 Qt/OpenGL 기반 Visualization Tool과 C++ 기반 Engineering Software를 개발하고 있습니다.<br/><br/>
+    특히 실시간 렌더링, 시뮬레이션, GPU Computing, Tool Architecture에 관심을 가지고 있으며, 복잡한 연구 아이디어를 실제 동작하는 소프트웨어로 구현하는 것을 즐깁니다.
   </div> 
+</div>
+
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💼 Career</h2>
+  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <ul>
+      <li>
+        <b>IDX.inc</b> | Kyung Hee University Research Lab Spin-off
+        <br/>
+        <sub>C++ Software Engineer • 2026.06 ~ Present</sub>
+      </li>
+      <br/>
+      <li>
+        <b>Pulse9</b> | AI & Computer Vision Startup
+        <br/>
+        <sub>Unreal Client Programmer Intern • 2025.12 ~ 2026.03</sub>
+      </li>
+      <br/>
+      <li>
+        <b>BitMango</b> | Global Mobile Game Company
+        <br/>
+        <sub>Playable Minigame Programmer • 2023.09 ~ 2024.03</sub>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2> 
   <div style="text-align: left;"> 
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+    <img src="https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   </div>
 </div>
 
@@ -38,7 +65,7 @@
 
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2> 
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact Me</h2> 
   <div style="text-align: left;"> 
     <a href="https://pig-tag.tistory.com/">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
