@@ -22,7 +22,7 @@
       </li>
       <br/>
       <li>
-        <b>Pulse9</b> | AI Research Lab
+        <b>Pulse9</b> | Corporate AI Research Lab
         <br/>
         <sub>Unreal Client Programmer Intern • 2025.12 ~ 2026.03</sub>
       </li>
