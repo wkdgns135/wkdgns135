@@ -22,7 +22,7 @@
       </li>
       <br/>
       <li>
-        <b>Pulse9</b> | AI & Computer Vision Startup
+        <b>Pulse9</b> | AI Research Lab
         <br/>
         <sub>Unreal Client Programmer Intern • 2025.12 ~ 2026.03</sub>
       </li>
@@ -30,7 +30,7 @@
       <li>
         <b>BitMango</b> | Global Mobile Game Company
         <br/>
-        <sub>Playable Minigame Programmer • 2023.09 ~ 2024.03</sub>
+        <sub>Playable Minigame Programmer Intern • 2023.09 ~ 2024.03</sub>
       </li>
     </ul>
   </div>
