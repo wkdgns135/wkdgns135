@@ -16,7 +16,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     <ul>
       <li>
-        <b>IDX.inc</b> | Kyung Hee University Research Lab Spin-off
+        <b>IDX.inc</b> | Kyung Hee University Mechanical Engineering Research Lab
         <br/>
         <sub>C++ Software Engineer • 2026.06 ~ Present</sub>
       </li>
