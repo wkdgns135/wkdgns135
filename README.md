@@ -7,7 +7,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     컴퓨터 그래픽스와 물리 시뮬레이션에 관심을 가지고 C++/CUDA 기반 헤어 시뮬레이터와 PBD/XPBD 기반 Cloth Simulator를 개발했습니다.<br/>
     Unity 라이브 콘텐츠 업데이트와 Playable Ads 개발 경험을 바탕으로 실무 환경을 경험했으며, 현재는 CAE 및 시뮬레이션 분야에서 Qt/OpenGL 기반 Visualization Tool과 C++ 기반 Engineering Software를 개발하고 있습니다.<br/><br/>
-    특히 실시간 렌더링, 시뮬레이션, GPU Computing, Tool Architecture에 관심을 가지고 있으며, 복잡한 연구 아이디어를 실제 동작하는 소프트웨어로 구현하는 것을 즐깁니다.
+    특히 실시간 렌더링, 시뮬레이션, GPU Computing, Tool Architecture에 관심을 가지고 있으며, 복잡한 아이디어를 실제 동작하는 소프트웨어로 구현하는 것을 즐깁니다.
   </div> 
 </div>
 
